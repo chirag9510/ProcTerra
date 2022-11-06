@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/78268919/200174544-a9f2ea57-ce9f-4f98-
 Edit paths to required libraries in **CMakePresets.json** and compile under **Release/x64**.\
 Copy contents from **bin_cpy** folder as well as all the dlls from the ogre3d library bin folder into the compiled executable path. 
 
-Or just download the compiled executable released **procterra.zip**.
+Or just download the compiled executable release **procterra.zip**.
 
 https://user-images.githubusercontent.com/78268919/200174636-1e51db2c-7d1d-4c2f-a9f9-cb1bd6182ab1.mp4
 
